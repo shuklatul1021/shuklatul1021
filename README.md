@@ -1,5 +1,5 @@
 # About Me:
- I am currently pursuing my studies in Computer Science, constantly learning and growing my technical skills.<br>A passionate full-stack developer with experience in building efficient, scalable, and user-friendly applications.<br>I am deeply interested in contributing to open-source projects, collaborating with the global developer community, and making meaningful contributions to impactful software.<br>🚀 Always eager to explore new technologies, improve my skills, and tackle challenging problems.
+ I am currently pursuing my studies in Computer Science, constantly learning and growing my technical skills.<br>A passionate full-stack developer with experience in building efficient, scalable, and user-friendly applications.<br>I am deeply interested in contributing to open-source projects, collaborating with the global developer community, and making meaningful contributions to impactful software.<br>Always eager to explore new technologies, improve my skills, and tackle challenging problems.
 
 
 ## 🌐 Socials:
