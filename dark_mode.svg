@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1332" height="575" viewBox="0 0 1332 575">
+<defs>
+<filter id="softshadow" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+</filter>
+</defs>
+<rect x="4" y="4" width="1324" height="567" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5" filter="url(#softshadow)"/>
+<g font-family="'JetBrains Mono', Consolas, Menlo, Monaco, monospace" font-size="7.6" fill="#9ba7b4" xml:space="preserve">
+<text x="40" y="56.0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B@B@@BB@B@@@B@B@B@@B@B@@B@@B@@@B@@B@@B@@BB%%%B%%%%B%%%%%%8%8%8%%%</text>
+<text x="40" y="64.5" xml:space="preserve">@@$@@$@@$@@$@@$@$$@$$@@$@$@@$@@$@@$@@$@@$@@BB@@@B@BB@@B@B@@B@B@B@@@BBBB88%BBBB@@@@@B@@BBB%%%B%B%%B%B%%8%%8%88%</text>
+<text x="40" y="73.0" xml:space="preserve">@@@@@@@@@@@@@@@@$@$@$$@@@$@@@@@@@@@@@@@@@@B@@B@B@@@BB@@B@BBB@@@@@B8&amp;&amp;Wobbdbkha#W8B@BBB@BB%B%%%%B%%%%%8%W&amp;%8WM8</text>
+<text x="40" y="81.5" xml:space="preserve">@$@$@@$@$@$@@@$@@@@@@&amp;@@@@$@$@$@$@@@@@@@@@@B@@B@B@%@@BB&amp;W&amp;&amp;8@$$@B&amp;W88%%8MkkaooobpaM8B@BB@BBBB%B%%BBBB%%%8888&amp;8</text>
+<text x="40" y="90.0" xml:space="preserve">@@$@$$@@BB@@BB@@@$$@BW$@$@@$$@@@@B@@@@B@@@@@B@@@@@@B@@$@$@@@B8&amp;**#MMMWM#oohbooo*adka#8%%B%8&amp;8%8%%&amp;&amp;WWW8&amp;&amp;W&amp;&amp;&amp;8</text>
+<text x="40" y="98.5" xml:space="preserve">@@$$$$@@@@B@%B@@$$$$@$@@@@$@@@B@@B@@$@B@@@@@%8%&amp;W8B%B@$$$$$$B%%%%WWMM*o#Moabha*oahahddo88%&amp;MW%%%%8W&amp;&amp;8%%%%MWW8</text>
+<text x="40" y="107.0" xml:space="preserve">@@$@@@B@@B@@@@@@B%%%BB@@BB%%B%%@@$@@$@B@$@$@BBB88%B@$$$@$$$$$$$$$$@B%WMWWW#***#W#***opqhWMW888%%%%%888%%B%#&amp;W&amp;</text>
+<text x="40" y="115.5" xml:space="preserve">@@B%BB@BB@B@@$$@@@@@@@@B&amp;WWW&amp;8%%B@$$$B8%BBB%%%8%@$$$8B@B8%B@%WhwQcr|/jfxzJ0mmwpaW&amp;WMoo*w%@@8#B@BB888WWB%%&amp;W8M&amp;</text>
+<text x="40" y="124.0" xml:space="preserve">$@@$$$$@@%&amp;&amp;%%888B$$$@%%88&amp;&amp;&amp;88%B@$@@$@@@@BBB%BBBB@B%%B$%W%8kY)]?_&gt;I"^"`'`,Ili~[r0*8B@Wwa@$8WB@BB@@BBBBBB88%%B</text>
+<text x="40" y="132.5" xml:space="preserve">$$$$$$$%*hkbhho*&amp;@$$$$$$@@@@@@$@B%B888B%@@$@@BB@BB&amp;*88&amp;8@@$*v{[{]+!;^```'''.''""I&lt;tZW@ompW@@B@@@@B@@BBB@B%B%%@</text>
+<text x="40" y="141.0" xml:space="preserve">$$$$$$$@%88%%%BB@@$$$$$$$$@$$$@B%8%88M%@WaaadOm#@@B#%BBB$@hcfrxrtfjx/~"'...`::,:Ili/k&amp;ohM8@BB@B@B@@B@BBB%%8%8%</text>
+<text x="40" y="149.5" xml:space="preserve">$$$$$$$$$$$@@@$@@$$$$$$$$$$$@@$@BB8%%B@$BhkhkkkW@@@$BB$$@Zr\/(|(())/f)~;^,~(vx/|11{-J8a*W8BB@B@@@B@@B@@BBB%%%%</text>
+<text x="40" y="158.0" xml:space="preserve">$$$$$$$$$$$$$@$$$$$$$$$$$$$$8B$@BB%%%8B@BWMMWWW%@@$#rQb%on(_-/Jxc0f{)1[l^:_(/cu\()[?[oM*WB@@B@B@B@B@@B@BBB%%%8</text>
+<text x="40" y="166.5" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$B@BB88BBBB@@@@@@@@$u,-/q0r[&lt;&gt;&gt;i&gt;&lt;&gt;&gt;&lt;?1{&gt;:I&gt;&lt;_(/](\~l&gt;QWCb$B@@@B@@@@B@@B@B%%%%%</text>
+<text x="40" y="175.0" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@B@@@@B@@@B@@@@@@@$zI"{qJr[&gt;I,````^I?)?!"^&gt;I.'`^`'`,in?;{$B@B@@B@B@B@B@@BB%B%B</text>
+<text x="40" y="183.5" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@@@@@@@@@@@@@@$pi!{pQr[&lt;:`'   "}})(;.:&gt;l.     ',+t''~@@@BBB@B@@@B@@B@BB%%B</text>
+<text x="40" y="192.0" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@@@@@@@@@@@@@$$%ni+p0r\]iI"`'"I{|/xt{tt-'   . `I}+`.Q$B@@@B@@BB@@B@B@@BBBB</text>
+<text x="40" y="200.5" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$$$$$@$@@@$@$@@@@@@$@@$@@@$@$$$M#%Qj\1]il~[{)/rt[_)\)&lt;l"'`";l_[.`x$@@B@B@@B@BB@BBB%BB%%B</text>
+<text x="40" y="209.0" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$@@@@@@@$@@@@@@@$@@@@@@@$@@$$$$$$$mr\1?+-\nUUzur|}\xffn\&gt;I!+_|n\Z$@B@@B@@B@@@BB%%%%%%B%B</text>
+<text x="40" y="217.5" xml:space="preserve">$$$$$$$$$$$$$$@$$$$$$$@$$$@@$@@@@$@@$@@@$@$@@@@@@@@@@@@$ozjt)?_+&lt;?1\({{}{}1\|1_&lt;]-]w$$$@@@B@@B@BBB%%%B%B%B%%%B</text>
+<text x="40" y="226.0" xml:space="preserve">$$$$$$$$$$$$$$$$@$@@@@$@$@@@@@@$@@@@@@@@@@@@@@@$@$@$@$@$%bJur|[_+&lt;il_[(({&lt;i!ii+?[(Z@@@B@B@@B@BB%B%%B%%%%%%%%%%</text>
+<text x="40" y="234.5" xml:space="preserve">$$$$$$$$$$$$$@@$$@@@@@@@@$@$@@@@@@$@@$@$@@@@@@@@@@@@@@@$8##b0Xx(]+&gt;i~iiI:::i~?)tYk@@@B@@B@BBB%%%%B%%8%88888%8%</text>
+<text x="40" y="243.0" xml:space="preserve">$$$$$$$$$$$@@@$@@@@$@$@@@@@@@$@@@@@@@@@@@$@@@@@@$@@@@@@$Wpo8W*hpZJXYCJcrjt))fcCwa$B@B@BBBBB%%%B%%%%8%8%%%%8%8%</text>
+<text x="40" y="251.5" xml:space="preserve">$$$$$$$$$$@$@@@@@$@@@@@@@@@@@@@@@B@@@@@@@B@@@@@@B@@@@@$$ovnCbW&amp;W&amp;&amp;8888&amp;WW#okddZuZB@@%%BB%BB%%%%8%8%88%88888%8%</text>
+<text x="40" y="260.0" xml:space="preserve">$$$$$$$@$@@@@$@@@@@@@@BB@@@@BBBBBBBBB@B@B@B@BB@@@@@@@$8Wox{])zpkao#MWMW&amp;W#abZn1(Cdb8@B%%Mko#W8%B@BBB%88%888888</text>
+<text x="40" y="268.5" xml:space="preserve">$$$$$@@@@@@$@@@@@@@@@B@BBBBB@@@B@@B@B@@B@B@@@B%&amp;&amp;B@B@OYUbu)[]])vUUUXcnjxncvn\}{\YQd8%%%%B0Q0LOJ(rzQb*8B%8888&amp;8</text>
+<text x="40" y="277.0" xml:space="preserve">$$$@$@@$@@@@@@@@@@B@BB@@@BB@B@@@B@@@@$$$B%&amp;#apmo$@B@BmurOX([??}/uvuvu/)/rjf|{[}fvUWB%8%BCCCUYJx ";Ii_1vb*8%888</text>
+<text x="40" y="285.5" xml:space="preserve">@$@@@@@@@@@BB@BBBB@B@B@B@B@B@B@B@@$$BWkQjjqmZZZZq$B@@@aYXu\1[-_]|jj/junr/|1[[}{jZW%%%B@bUo**o*MunQQ00CJd/fL#88</text>
+<text x="40" y="294.0" xml:space="preserve">@@@@@@@B@B@BB@B@@@B@@@B@@B@@@@$$8M0f[+;^;1O0QLLc:0$@BB@%*0x)}]_+-{)))(()}?-?(nZMB%%B@&amp;UuZMB%8%BXv0ZmmOZ8L/)xp8</text>
+<text x="40" y="302.5" xml:space="preserve">@@@BBBBB@@B@@B@@B@@@B@@B@@@@8#O/fX+&gt;+-}(xOooao*auCh&amp;$@@BB@8aZUn\1)\/frrrxz0dM%BBBB@8qx|jCa8&amp;88BJcQOmmOL8U|\/O#</text>
+<text x="40" y="311.0" xml:space="preserve">BB@B@@@@B@@BB%B%B%BBBB%BBBMpwmQ0MUzUvYvJw*B%%%%&amp;CQmZb#B@@B@$@$@%8&amp;WW&amp;&amp;8%@$$@@@$$$BdzjrncQa&amp;W&amp;W&amp;zzQQOm0q8cjr{jW</text>
+<text x="40" y="319.5" xml:space="preserve">@@@@B@BB@BBB%%%B%%%B%%BB%*dwqdqaBzcvnunzm*8&amp;&amp;8%&amp;YQwqqZqoB@@$$$$$$$@@$@@@@$$$%Woqdh){}}+[tpbppdZ;~}{)1)pX1/x&gt;&gt;o</text>
+<text x="40" y="328.0" xml:space="preserve">@B@BB@B%%%%%%%%%%B%%B%%8oQxwwmZaBLUXYYULq*%8888&amp;JCwZZ0Z0M*UU0mbba#BBBBB%ovvf)?~&lt;jLl:,:^^luXzncj .'''',/l;l!`Im</text>
+<text x="40" y="336.5" xml:space="preserve">BB%%B%%%%%%%%%8%%%%%%B&amp;aX_{Qpqpb%Cvnnf|)nL*aoooa-&gt;)}}]]]Yw_iii&gt;!~[0mZmZ0j  '''. _t     .,nuuxn1      ", .&lt;],Iw</text>
+<text x="40" y="345.0" xml:space="preserve">%%%%8%%8%8%88%8%88%8%&amp;pY?11jJrtjbniiI:lI;~Q0QQCC_ ^^``'.ic;'... .^xzzUUYr ......]f     .,vzvuc)  .   ". `{CJXW</text>
+<text x="40" y="353.5" xml:space="preserve">%88%8%8%88888888888888Z~{(]}/_,"1v^.    .,zUYXzYf .`^^'':X!     .^xLCCLJv..'..  [/      ^uvurv1      ^ "~_?xw%</text>
+<text x="40" y="362.0" xml:space="preserve">8%8888888888888&amp;88&amp;88@bc]]]]CU,`!c&gt;      'fUXXXXv" `''. "v_       (UYXUXf...'`^,/cl&gt;&lt;&lt;&lt;]tqwZOmX~{()1[}&gt;]){[|Q@</text>
+<text x="40" y="370.5" xml:space="preserve">888888&amp;8&amp;8&amp;8&amp;8&amp;88&amp;88@&amp;daQ_!nb\&lt;":n[       {UXYzzzl ````^,c\;ll!!&lt;-Xqwmwqm]{/t/t)QJ;;:,"ifbwwmqY`i~~_&gt;}1]_-|Qd$</text>
+<text x="40" y="379.0" xml:space="preserve">88&amp;8&amp;8&amp;88&amp;88888&amp;888B$#khomQq-`&gt;l^&lt;u~!!!ii_rddwppbj]fft\|/wCiil;;l-Xpwpmmml,i&gt;&gt;iiUv ....,\bqwwdY.I&gt;!lI}fwrLdcO$</text>
+<text x="40" y="387.5" xml:space="preserve">W&amp;W&amp;W&amp;&amp;&amp;&amp;&amp;&amp;&amp;W&amp;&amp;&amp;&amp;&amp;**8akphW@Zxu/1&gt;)CY~I,,,!\pqwmmq|'+?_&lt;&gt;iJL......!tpmwwww!'!i&gt;ilJn..'.'lfkbpqdY';IIIIf[d$*1&gt;v8</text>
+<text x="40" y="396.0" xml:space="preserve">WMWMWMWMWWWWMWMWMoQOqtpkaBpvvY0COqtj&lt;'   ^-wpqqmdn !+&lt;~&lt;&lt;cw:''''.l)pqqwwp+`ii&lt;~&gt;Lx'''.'IfbddpkL';!li[Y_q$Mf~J#</text>
+<text x="40" y="404.5" xml:space="preserve">#MMM#M#M####M#M#MmXJn"/cCZQYzUCw*kab-"'. "?ZqwZOwX'I&lt;&lt;&gt;&gt;!fq!.`''`!)pwwqwb['&lt;&lt;&lt;&lt;&gt;Cx ..  :)dwwwdX ^I(QdZh@bqdfmo</text>
+<text x="40" y="413.0" xml:space="preserve">####M###M#M#M##M#ZYC|._?~&lt;cOYULa$8%8[,^'.^+0qqqwqC`,~&lt;&lt;~&lt;|k~.`''`I{ppqpqq? :",;:jn.'`,;&gt;(ZZZZpz![)}d#hhOzQhC#%</text>
+<text x="40" y="421.5" xml:space="preserve">M#M###M##M#M#M#MaQJQ- i?~!JpJY0*$$$81:"..'!JdqpZm0"':;,::i0- ..'`,+QOZmZm{]rcXYCbd/trvz0hB%%%B%CC!./Mh0UcZJ)hW</text>
+<text x="40" y="430.0" xml:space="preserve">##*##*##########*hak)}|){{wu~)1O#%$8O?!,^"!vw0ZZmO_}jrnuvzoL|/rrrzO*WW8&amp;BOJmmpwmo#vuvuv0hB%%%%@wj.:\*8kZpL+(o&amp;</text>
+<text x="40" y="438.5" xml:space="preserve">*******#**#****#hqdz:]\funpr:)zm0wbW%*0CYXZo8&amp;&amp;&amp;8%QQpqwqwpBpXUXJXLk&amp;%%%%BQuZmwOOoMunxxrQb%%BB$8J]_&lt;&lt;m&amp;@#q]!Y%@</text>
+<text x="40" y="447.0" xml:space="preserve">****************aqp{^~+-{jbO]_?xLqpqh$8kOJq*@%%%%BLYqqmmZp8bYYuxuUk&amp;88&amp;8%mzwwwqqa8CvnuuJb8B$%hp\,' "L&amp;%Bz[cB$$</text>
+<text x="40" y="455.5" xml:space="preserve">o*ooooaoaoaoaooohbd~I_-[{(Ud+ill~foao&amp;B@%hqbB@B@%@ZXwqqmwd%hUcXvcQbW%%%%BpzwpwZOpWj|)()(nh*Qn)j0]' iwdB$oqh$$$</text>
+<text x="40" y="464.0" xml:space="preserve">oaooaooooooooaoakkZl&gt;__-}1Yo}+~~&lt;&gt;X#*o*#dQoM8BBB%BqUdqZmmq8kuvvnrvLoWM###/-/(){-xpi;:::~xZt]_&lt;&lt;)Uvi&lt;OqW#Wwo@8%</text>
+<text x="40" y="472.5" xml:space="preserve">oaoaoaaaaaaaoooha#a|&lt;&gt;lIl!ud~!&gt;&lt;&gt;i|ooh#a{i)Xk8###Mt+jt//ffoJ~+_+&gt;i1mbpdww;,l;,""\u.'`I|Qh0I!~-[?_\Q~\Bdvk/u*a*</text>
+</g>
+<g font-family="'JetBrains Mono', Consolas, Menlo, Monaco, monospace" font-size="17" xml:space="preserve">
+<text x="611.6" y="60.0" fill="#79c0ff" font-weight="700" xml:space="preserve">atul@grind</text>
+<line x1="611.6" y1="80.0" x2="1271.6" y2="80.0" stroke="#30363d" stroke-width="1"/>
+<text x="611.6" y="85.0" fill="#79c0ff" font-weight="700" xml:space="preserve">OS: </text>
+<text x="652.4" y="85.0" fill="#4d5561" xml:space="preserve">........................</text>
+<text x="907.4" y="85.0" fill="#e6edf3" xml:space="preserve">Building in public</text>
+<text x="611.6" y="110.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Role: </text>
+<text x="672.8" y="110.0" fill="#4d5561" xml:space="preserve">......................</text>
+<text x="907.4" y="110.0" fill="#e6edf3" xml:space="preserve">Founder &amp; CEO, Grind Technologies</text>
+<text x="611.6" y="135.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Education: </text>
+<text x="723.8" y="135.0" fill="#4d5561" xml:space="preserve">.................</text>
+<text x="907.4" y="135.0" fill="#e6edf3" xml:space="preserve">B.E. Computer Engineering, PIEMR (2023-2027)</text>
+<text x="611.6" y="160.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Focus: </text>
+<text x="683.0" y="160.0" fill="#4d5561" xml:space="preserve">.....................</text>
+<text x="907.4" y="160.0" fill="#e6edf3" xml:space="preserve">AI-powered competitive programming platform</text>
+<text x="611.6" y="210.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Languages.Programming: </text>
+<text x="846.2" y="210.0" fill="#4d5561" xml:space="preserve">.....</text>
+<text x="907.4" y="210.0" fill="#e6edf3" xml:space="preserve">JavaScript, TypeScript, Rust, Python</text>
+<text x="611.6" y="235.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Languages.Frameworks: </text>
+<text x="836.0" y="235.0" fill="#4d5561" xml:space="preserve">......</text>
+<text x="907.4" y="235.0" fill="#e6edf3" xml:space="preserve">React, Next.js, Node.js</text>
+<text x="611.6" y="260.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Languages.Database: </text>
+<text x="815.6" y="260.0" fill="#4d5561" xml:space="preserve">........</text>
+<text x="907.4" y="260.0" fill="#e6edf3" xml:space="preserve">PostgreSQL</text>
+<text x="611.6" y="285.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Languages.Infra: </text>
+<text x="785.0" y="285.0" fill="#4d5561" xml:space="preserve">...........</text>
+<text x="907.4" y="285.0" fill="#e6edf3" xml:space="preserve">Docker, AWS</text>
+<text x="611.6" y="335.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Interests: </text>
+<text x="723.8" y="335.0" fill="#4d5561" xml:space="preserve">.................</text>
+<text x="907.4" y="335.0" fill="#e6edf3" xml:space="preserve">Systems programming, AI engineering, startups</text>
+<text x="611.6" y="385.0" fill="#79c0ff" font-weight="700" xml:space="preserve">Contact</text>
+<line x1="611.6" y1="405.0" x2="1271.6" y2="405.0" stroke="#30363d" stroke-width="1"/>
+<text x="611.6" y="410.0" fill="#79c0ff" font-weight="700" xml:space="preserve">LinkedIn: </text>
+<text x="713.6" y="410.0" fill="#4d5561" xml:space="preserve">..................</text>
+<text x="907.4" y="410.0" fill="#e6edf3" xml:space="preserve">linkedin.com/in/atul-shukla-2584b8287</text>
+<text x="611.6" y="435.0" fill="#79c0ff" font-weight="700" xml:space="preserve">X: </text>
+<text x="642.2" y="435.0" fill="#4d5561" xml:space="preserve">.........................</text>
+<text x="907.4" y="435.0" fill="#e6edf3" xml:space="preserve">x.com/Atulshukla1029</text>
+<text x="611.6" y="460.0" fill="#79c0ff" font-weight="700" xml:space="preserve">GitHub: </text>
+<text x="693.2" y="460.0" fill="#4d5561" xml:space="preserve">....................</text>
+<text x="907.4" y="460.0" fill="#e6edf3" xml:space="preserve">github.com/shuklatul1021</text>
+</g>
+</svg>
