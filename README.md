@@ -2,6 +2,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img alt="Atul's profile card" src="light_mode.svg" width="900">
+  <img alt="Atul's profile card" src="light_mode.svg" width="1600">
 </picture>
 </div>
